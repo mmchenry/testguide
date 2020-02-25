@@ -31,7 +31,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Test of Youtube
 
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/NoFLJLJ7abE" frameborder="0" width="75%" height="100%"  allowfullscreen="true"> </iframe>
+  <iframe src="https://www.youtube.com/embed/NoFLJLJ7abE" frameborder="0" width="100%" height="100%"  allowfullscreen="true"> </iframe>
 </figure>
 
 ### Jekyll Themes
